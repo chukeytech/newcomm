@@ -1,0 +1,141 @@
+/* *{
+    margin: 0px;
+} */
+
+.flex1{
+    width: 360px;
+    padding: 0px 20px;
+    display: flex;
+
+}
+
+.container {
+    width: 400px;
+    margin: auto;
+    height: 1081px;
+    box-shadow: 0px 0px 13px 0px rgb(146, 141, 141) ;
+    box-sizing: border-box;
+}
+
+.container1{
+    height: 340px;
+}
+
+.background-image{
+    background-image: url(../img/unsplash_iFgRcqHznqg.jpg);
+    background-repeat: no-repeat;
+    background-size: 75px;
+    padding-bottom: 40px;
+}
+
+.box{
+    box-sizing: border-box;
+    width: 350px;
+    margin: auto;
+    box-shadow: 0px 0px 13px 0px rgb(146, 141, 141);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.text1{
+    padding-left:90px;
+    padding-top: 5px;
+    line-height: 0px;
+}
+
+.but{
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+textarea{
+    /* position: absolute; */
+    border:0px;
+}
+
+textarea:focus{
+    outline: none;
+    /* outline-color: red; */
+}
+
+.but #cancel{
+    background: none;
+    border: 0px;
+}
+
+.but #respond{
+    background:linear-gradient(to right, #39bd55,#b4ee5e);
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+}
+
+ #sp{
+    padding-left: 240px;
+    font-size: 34px;
+    padding-bottom: 200px;
+}
+
+p {
+    font-size: 10px;
+    color: rgb(143, 141, 141);
+}
+
+.box1{
+    width: 360px;
+    height: 170px;
+    margin: auto;
+    padding-top: 15px;
+}
+
+h3 {
+    width: 300px;
+    padding-top: 20px;
+    padding-left: 10px;
+    color: rgb(143, 141, 141);
+    font-size: 16px;
+}
+
+label{
+    color: rgb(143, 141, 141) ;
+}
+
+#fonth2{
+    text-align: end;
+    font-size: 16px;
+    padding-right: 10px;
+}
+
+.reply-box2 #me{
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color:rgb(143, 141, 141) ;
+}
+
+.box2-1{
+    width: 300px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    margin: auto;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 10px 0px rgb(143, 141, 141);
+}
+
+.box2 {
+    height: 300px;
+    width: 360px;
+    margin: auto;
+}
+
+.vl {
+    border-left: 2px solid rgb(143, 141, 141)  ;
+    height: 120px;
+}
+
+.flex2{
+    display: flex;
+}
+
